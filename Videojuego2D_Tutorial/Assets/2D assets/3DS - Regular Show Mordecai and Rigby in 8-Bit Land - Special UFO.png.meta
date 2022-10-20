@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 83c101f05a60ad345b1b376f2d40ddd3
+timeCreated: 1665605251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_0
+    21300002: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_1
+    21300004: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_2
+    21300006: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_3
+    21300008: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_4
+    21300010: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_5
+    21300012: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_6
+    21300014: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_7
+    21300016: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_8
+    21300018: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_9
+    21300020: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_10
+    21300022: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_11
+    21300024: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_12
+    21300026: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_13
+    21300028: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_14
+    21300030: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_15
+    21300032: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_16
+    21300034: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_17
+    21300036: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_18
+    21300038: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_19
+    21300040: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_20
+    21300042: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_21
+    21300044: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_22
+    21300046: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_23
+    21300048: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_24
+    21300050: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_25
+    21300052: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_26
+    21300054: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_27
+    21300056: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_28
+    21300058: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_29
+    21300060: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_30
+    21300062: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_31
+    21300064: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_32
+    21300066: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_33
+    21300068: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 349
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 349
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 286
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 288
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 278
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 278
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 278
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 278
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 215
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 215
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 215
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 205
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 205
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 207
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 207
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 136
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 134
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 134
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_30
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 73
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3DS - Regular Show Mordecai and Rigby in 8-Bit Land - Special UFO_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ControlLampara.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ControlDanioEnemigo.cs" Line="31" Column="25" />
+      <File FileName="Assets\Scripts\ControlPersonaje.cs" Line="57" Column="10" />
+      <File FileName="Assets\Scripts\controlenemigo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControlBala.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RetroalimentacionEnergia.cs" Line="36" Column="2" />
+      <File FileName="Assets\Scripts\ControlHacha.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HabilitarTriggerDespuesdeAtacar.cs" Line="18" Column="77" />
+      <File FileName="Assets\Scripts\controldetective.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\ControlLampara.cs" Line="28" Column="4" />
+      <File FileName="Assets\Scripts\KillObject.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
